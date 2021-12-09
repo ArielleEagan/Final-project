@@ -1,0 +1,37 @@
+keep level - split out alpha-characters from job levels (df.level.apply(lambda x: clean_level(x))
+
+add # of years from now as a variable
+# of years at the company
+# of years experience
+3-5 columns to bucket companies by city (e.g. distance from san francisco - google maps api can track distances)
+
+random forest or simple neural net
+.apply with regex
+
+frontend/javascript (what input to take/infer from user): what city is the company located? years of experience? years at company?
+
+def clean_string(x):
+num_list = [i for i in x if i.isdigit()]
+return int(''.join(num_list))
+
+presentations are saturday, december 11
+2,227 rows
+
+simplest neural net - model scikit learn multi-layer proceptron regressor
+
+for r2 the higher the score, the better it fits the model
+
+before scaling, get mean of all salaries in train data; run mean absolute values comparing mean to salaries to get baseline error.
+
+scaled x data for total compensation model
+
+random forest doesn't necessarily need to be scaled
+
+function needs to scale data to match what was used in the model
+
+
+
+finalize bonus and equity models
+save models
+save scalars
+generate function to predict info
