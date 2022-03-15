@@ -1,3 +1,5 @@
+Goals - Salary Prediction project answers the question, what salary should you expect in a data scientist role depending on your location, experience and level. Using Machine Learning, the project utilizes neural networks and hyper-parameter tuning to return a total compensation for data scientist role. 
+
 Data Cleaning and Exploration is the notebook that cleans the data</br>
 Notebooks starting with "Neural Network" builds the three neural network models and saves them</br>
 Notebooks starting with "Mean Absolute Error" calculates the mean absolute errors for the three models</br>
