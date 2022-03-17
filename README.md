@@ -10,6 +10,13 @@ Notebooks starting with "Neural Network" builds the three neural network models 
 ![image](https://user-images.githubusercontent.com/85321602/158855929-43e537f9-3ab4-421e-b025-1e9a096d97f8.png)
 
 Notebooks starting with "Mean Absolute Error" calculates the mean absolute errors for the three models</br>
+
+
+![image](https://user-images.githubusercontent.com/85321602/158856129-f7797037-2fec-4d8e-8574-4be2ebab1b6d.png)
+
+
+
+
 NU_Bootcamp_Final Project_Presentation is the final presentation</br>
 Random Forest is the random forest model for the yearly compensation model</br>
 City_Distances  is the notebook that calculates the distances of all cities from the three different cities and saves them to a csv file</br>
@@ -20,7 +27,7 @@ Prediction is the notebook that combines all the models and makes the prediction
 
 
 
-![image](https://user-images.githubusercontent.com/85321602/158856129-f7797037-2fec-4d8e-8574-4be2ebab1b6d.png)
+
 
 ![image](https://user-images.githubusercontent.com/85321602/158856753-741be949-8da7-4c12-a683-e71c55c18624.png)
 
