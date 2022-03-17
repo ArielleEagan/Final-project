@@ -6,6 +6,9 @@ Salary dataset pulled from Levels.fyi
 
 Data Cleaning and Exploration is the notebook that cleans the data</br>
 Notebooks starting with "Neural Network" builds the three neural network models and saves them</br>
+
+![image](https://user-images.githubusercontent.com/85321602/158855929-43e537f9-3ab4-421e-b025-1e9a096d97f8.png)
+
 Notebooks starting with "Mean Absolute Error" calculates the mean absolute errors for the three models</br>
 NU_Bootcamp_Final Project_Presentation is the final presentation</br>
 Random Forest is the random forest model for the yearly compensation model</br>
@@ -15,7 +18,7 @@ Prediction is the notebook that combines all the models and makes the prediction
 
 
 
-![image](https://user-images.githubusercontent.com/85321602/158855929-43e537f9-3ab4-421e-b025-1e9a096d97f8.png)
+
 
 ![image](https://user-images.githubusercontent.com/85321602/158856129-f7797037-2fec-4d8e-8574-4be2ebab1b6d.png)
 
