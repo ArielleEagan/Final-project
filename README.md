@@ -1,5 +1,8 @@
 Goals - Salary Prediction project answers the question, what salary should you expect in a data scientist role depending on your location, experience and level. Using Machine Learning, the project utilizes neural networks and hyper-parameter tuning to return a total compensation for data scientist role. 
 
+Salary info
+![image](https://user-images.githubusercontent.com/85321602/158855552-a44a5026-9e75-4085-8146-4435b8cc31dd.png)
+
 Data Cleaning and Exploration is the notebook that cleans the data</br>
 Notebooks starting with "Neural Network" builds the three neural network models and saves them</br>
 Notebooks starting with "Mean Absolute Error" calculates the mean absolute errors for the three models</br>
@@ -9,7 +12,7 @@ City_Distances  is the notebook that calculates the distances of all cities from
 Prediction is the notebook that combines all the models and makes the prediction of yearly compensation, bonus and equity for given user inputs</br>
 
 
-![image](https://user-images.githubusercontent.com/85321602/158855552-a44a5026-9e75-4085-8146-4435b8cc31dd.png)
+
 
 ![image](https://user-images.githubusercontent.com/85321602/158855929-43e537f9-3ab4-421e-b025-1e9a096d97f8.png)
 
